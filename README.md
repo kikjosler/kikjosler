@@ -1,5 +1,5 @@
 <h1 align="center">Привет! Меня зовут Иосиф</h1>
-<h3>Я инженер-тестировщик с опытом в ручном тестировании, работал в edtech и e-commerce компаниях. В данный момент изучаю автоматизацию тестирования на Python+Playwright.</h3>
+<h3>Я инженер-тестировщик с опытом в ручном тестировании, работал в edtech и e-commerce компаниях. В данный момент изучаю автоматизацию тестирования.</h3>
 <h3 align="left">Стек технологий:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="40" />
