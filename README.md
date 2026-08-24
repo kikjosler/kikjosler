@@ -8,5 +8,5 @@
 
 * **Тестирование и автоматизация:** `Postman` • `Swagger` • `Selenium` • `Playwright` • `Pytest` • `JUnit5` • `Kaspresso` • `BrowserStack`
 * **Языки и инструменты разработки:** `Python` • `Kotlin` • `Git` • `PyCharm`
-* **Инфраструктура и базы данных:** `PostgreSQL` • `Jenkins` • `Apache Kafka` • `Docker`
+* **Инфраструктура и базы данных:** `PostgreSQL` • `GitHub Actions` • `Jenkins` • `Apache Kafka` • `Docker`
 * **Таск-трекинг и документация:** `Jira` • `Confluence`
