@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://t.me" target="_blank">
-    <img src="https://shields.io" alt="Telegram" />
+    <img src="https://badgen.net" alt="Telegram" />
   </a>
 </p>
 
@@ -13,13 +13,13 @@
 ### Стек технологий
 
 #### Тестирование и автоматизация
-![Postman](https://shields.io) ![Swagger](https://shields.io) ![Selenium](https://shields.io) ![Playwright](https://shields.io) ![Pytest](https://shields.io) ![JUnit5](https://shields.io) ![Kaspresso](https://shields.io) ![BrowserStack](https://shields.io)
+![Postman](https://badgen.net) ![Swagger](https://badgen.net) ![Selenium](https://badgen.net) ![Playwright](https://badgen.net) ![Pytest](https://badgen.net) ![JUnit5](https://badgen.net) ![Kaspresso](https://badgen.net) ![BrowserStack](https://badgen.net)
 
 #### Языки и инструменты разработки
-![Python](https://shields.io) ![Kotlin](https://shields.io) ![Git](https://shields.io) ![PyCharm](https://shields.io)
+![Python](https://badgen.net) ![Kotlin](https://badgen.net) ![Git](https://badgen.net) ![PyCharm](https://badgen.net)
 
 #### Инфраструктура и базы данных
-![PostgreSQL](https://shields.io) ![Jenkins](https://shields.io) ![Apache Kafka](https://shields.io) ![Docker](https://shields.io)
+![PostgreSQL](https://badgen.net) ![Jenkins](https://badgen.net) ![Apache Kafka](https://badgen.net) ![Docker](https://badgen.net)
 
 #### Таск-трекинг и документация
-![Jira](https://shields.io) ![Confluence](https://shields.io)
+![Jira](https://badgen.net) ![Confluence](https://badgen.net)
