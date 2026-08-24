@@ -8,11 +8,11 @@
 
 <h4>Тестирование и автоматизация</h4>
 <p align="left">
-  <img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img src=<i class="devicon-postman-plain colored"></i>
   <img width="8" />
-  <img src="https://jsdelivr.net" height="40" title="Swagger" />
+  <img src=<i class="devicon-swagger-plain colored"></i>
   <img width="8" />
-  <img src="https://jsdelivr.net" height="40" title="Selenium" />
+  <img src=<i class="devicon-selenium-original"></i>
   <img width="8" />
   <img src="https://jsdelivr.net" height="40" title="Playwright" />
   <img width="8" />
