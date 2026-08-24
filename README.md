@@ -1,9 +1,5 @@
 # <p align="center">Привет! Меня зовут Иосиф</p>
 
-<p align="center">
-  <b><a href="https://t.me" target="_blank">Связаться со мной в Telegram (@JosephKik)</a></b>
-</p>
-
 ### Я QA Engineer с опытом в ручном тестировании (EdTech, E-commerce) и фокусом на автоматизацию. Развиваю навыки создания автотестов на Python (Pytest) и Kotlin (Kaspresso), чтобы ускорять проверки и повышать качество продукта.
 
 ---
